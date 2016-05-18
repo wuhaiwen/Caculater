@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">海哥版计算器</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
